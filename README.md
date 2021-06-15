@@ -1,5 +1,5 @@
 # Airbnb PH Price Prediction
-An updated personal version of the Capstone project based on the https://github.com/ZL63388/airbnb-prediction-ph repository
+An updated personal version of the Capstone project based on the https://github.com/ZL63388/Eskwelabs-Capstone-Project-Airbnb repository
 
 # Reason for update
 After the bootcamp, I continued my learning through Data Science Infinity program by Andrew Jones and understood more of the concept behind Regression models. I decided to use our Capstone project dataset to see if it improved the model and to apply what I have learned from the DSI program.
